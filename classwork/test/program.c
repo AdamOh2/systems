@@ -1,3 +1,6 @@
+#include <stdio.h>
+//%x is hexadecimal
 int main(){
-      printf("Hello world.");
-    }
+  int w = -559038737;
+  printf("%s", w);
+}
